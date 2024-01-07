@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "kacperbiedka.one-candy-dark",
+        "bradlc.vscode-tailwindcss",
+        "christian-kohler.path-intellisense",
+        "alefragnani.project-manager",
+        "redhat.vscode-yaml",
+        "visualstudioexptteam.vscodeintellicode",
+        "foxundermoon.next-js",
+        "wayou.vscode-todo-highlight",
+        "gruntfuggly.todo-tree",
+        "catppuccin.catppuccin-vsc-icons",
+        "dbaeumer.vscode-eslint",
+        "miguelsolorio.fluent-icons"
+    ]
+}

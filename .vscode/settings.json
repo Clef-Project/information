@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.colorTheme": "One Candy",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.tabSize": 2,
+    "workbench.productIconTheme": "fluent-icons",
+    "files.eol": "\n"
+}
