@@ -11,6 +11,8 @@
         "gruntfuggly.todo-tree",
         "catppuccin.catppuccin-vsc-icons",
         "dbaeumer.vscode-eslint",
-        "miguelsolorio.fluent-icons"
+        "miguelsolorio.fluent-icons",
+        "ms-ceintl.vscode-language-pack-ja",
+        "michaelcurrin.auto-commit-msg"
     ]
 }
