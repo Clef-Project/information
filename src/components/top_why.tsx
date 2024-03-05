@@ -1,5 +1,5 @@
 import React from "react";
-import { Paper, Card } from "@mui/material";
+import { Paper } from "@mui/material";
 
 const TopWhy = () => {
   return(
